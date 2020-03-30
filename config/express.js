@@ -3,7 +3,7 @@
 */
 
 const compression = require("compression");
-const bodyParser = requiere("body-parser");
+const bodyParser = require("body-parser");
 const methodOverride = require("method-override");
 const errorHandler = require("errorHandler");
 
